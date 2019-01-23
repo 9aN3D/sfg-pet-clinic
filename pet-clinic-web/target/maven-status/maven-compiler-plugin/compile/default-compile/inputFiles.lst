@@ -1,0 +1,7 @@
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/SfgPetClinicApplication.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/formatters/PetTypeFormatter.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/controllers/IndexController.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/controllers/OwnerController.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/controllers/VetController.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/controllers/PetController.java
+/home/kovalchv/MyProjects/Spring/GURU/sfg-pet-clinic/pet-clinic-web/src/main/java/com/example/guru/sfgpetclinic/bootstrap/DataLoader.java
